@@ -1,0 +1,6 @@
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\bin\Debug\SearchTextFileTest.exe.config
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\bin\Debug\SearchTextFileTest.exe
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\bin\Debug\SearchTextFileTest.pdb
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\obj\Debug\SearchTextFileTest.csprojResolveAssemblyReference.cache
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\obj\Debug\SearchTextFileTest.exe
+D:\C# Programs\Personal\SearchTextFileTest\SearchTextFileTest\obj\Debug\SearchTextFileTest.pdb
